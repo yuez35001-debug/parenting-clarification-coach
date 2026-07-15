@@ -1,0 +1,4 @@
+interface:
+  display_name: "育儿澄清教练·新手入门"
+  short_description: "从一个真实育儿事件开始，带家长跑完首次澄清与行动体验"
+  default_prompt: "使用 $parenting-onboarding 带我完成育儿澄清教练的新手入门。"
