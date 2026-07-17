@@ -1,4 +1,4 @@
 interface:
   display_name: "育儿挑战澄清教练"
-  short_description: "通过澄清、觉察、课题分离与追踪帮助家长形成具体行动计划"
+  short_description: "先确认家长目标，再提供办法、理解孩子或判断问题层次"
   default_prompt: "使用 $parenting-clarification-coach 帮我澄清这个育儿挑战。"
